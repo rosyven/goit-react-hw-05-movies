@@ -1,0 +1,32 @@
+.movie_container a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 10px 10px;
+}
+.movie_desc {
+  display: flex;
+  gap: 20px;
+}
+.movie_desc h2 {
+  color: maroon;
+  font-size: 32px;
+  margin: 0;
+}
+.movie_desc h3 {
+  font-size: 20px;
+}
+.movie_desc h4 {
+  font-size: 20px;
+}
+.movie_container ul {
+  list-style: none;
+  padding: 0;
+}
+.movie_desc span {
+  font-size: 22px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}

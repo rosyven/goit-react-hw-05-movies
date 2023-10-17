@@ -1,0 +1,6 @@
+.trending {
+  display: flex;
+  justify-content: center;
+  color: maroon;
+  font-size: 42px;
+}

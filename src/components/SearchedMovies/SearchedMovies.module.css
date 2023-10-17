@@ -1,0 +1,20 @@
+.search_list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.search_list a {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  margin-bottom: 18px;
+}
